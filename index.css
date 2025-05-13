@@ -1,0 +1,38 @@
+.a{
+    background-color: lightcoral;
+    /* width: 300px;
+    height: 300px; */
+    /* color: white;
+    padding:20px;  */
+    /* padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+     padding-bottom: 10px; */
+} 
+.b{
+    background-color: lightseagreen;
+    /* width: 300px;
+    height: 300px; */
+    /* color: white;
+    padding:20px;  */
+    /* padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+     padding-bottom: 10px; */
+
+}
+.c{
+    background-color: aqua;
+}
+.a,.b,.c {
+    color: white;
+    padding: 20px;
+    width: 400px;
+    display: inline-block;
+    margin: 10px;
+}
+.d{
+    background-color: orange;
+    padding: 10px;
+    margin: 10px;
+}
